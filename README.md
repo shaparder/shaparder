@@ -16,9 +16,9 @@
 
 ### 👨‍💻 About Me :
 
-- 🔭 I’m a business oriented Software Engineer
+- 👨‍🎓 I have a bachelor in Computer Science and a Master degree in Cybersecurity and AI  
 
-- 🌱 Building SaaS products
+- 🔭 I’m a business minded Software Engineer building SaaS products
 
 - 🎤 In my free time, I'm a singer, music producer and DJ
 
