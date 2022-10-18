@@ -44,7 +44,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaparder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/8vIFoKU8s4m4CBqCao/giphy.gif" width="max"/>
