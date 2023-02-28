@@ -18,9 +18,9 @@
 
 - 👨‍🎓 I have a bachelor in Computer Science and a Master degree in Cybersecurity and AI  
 
-- 🔭 I’m a business minded Software Engineer building SaaS products
+- 🔭 I’m a business minded Software Engineer building digital products
 
-- 🎤 In my free time, I'm a singer, music producer and DJ
+- 🎤 In my free time, I'm a music producer and DJ
 
 ---
 
