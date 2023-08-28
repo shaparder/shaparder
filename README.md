@@ -20,7 +20,7 @@
 
 - 🔭 I’m a business minded Software Engineer building digital products
 
-- I co-founded [Softwhale Studio](https://github.com/SoftWhale-Studio), we partner with entrepreneurs to create awesome mobile applications. We use our own ACG.
+- I co-founded [Softwhale Studio](https://github.com/SoftWhale-Studio), we partner with entrepreneurs to create awesome mobile applications. We use our own Flutter ACG.
 
 - 🎤 In my free time, I'm a music producer and DJ
 
